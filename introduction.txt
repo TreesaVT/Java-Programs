@@ -1,1 +1,21 @@
-my name iss
+class Forloop{
+import.java.util.*;
+
+public static void main(String[]args()
+{
+Vector<Integer> a1=new Vector<Integer>();
+a1.add(12);
+a1.add(13);
+a1.add(18);
+a1.add(213);
+
+
+Enumeration <Integer> e1=a1.elements();
+
+while(e1.hasMoreElements())
+{
+sysout(l1.nextElement());
+}
+
+}}
+
